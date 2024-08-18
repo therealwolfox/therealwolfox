@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @therealwolfox
+- 👋 Hi, I’m VIVEK S.L
 - 👀 I’m interested in Software Development and Artificial Intelligence 
 - 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on learning the foundation and explore the opportunity for the future tech ecosystem
